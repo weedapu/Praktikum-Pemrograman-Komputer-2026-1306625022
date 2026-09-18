@@ -1,8 +1,8 @@
 # Modul [01] - [Nama Topik Modul]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Muhammad Gotzone Davu Quinn]  
+**NIM:** [1306625022]  
+**Kelas:** [Fisika C]  
 
 ---
 
