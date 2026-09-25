@@ -1,4 +1,4 @@
-# Modul [01] - [Nama Topik Modul]
+# Modul [01] - [Program Konversi Suhu Celsius-Reamur-Fahrenheit]
 
 **Nama:** [Muhammad Gotzone Davu Quinn]  
 **NIM:** [1306625022]  
@@ -7,10 +7,13 @@
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
+> Membuat sebuah program yang dapat menerima masukan suhu dalam satuan Celsius, kemudian menghitung dan menampilkan nilai suhu tersebut dalam skala Reamur dan Fahrenheit secara otomatis. Program harus menggunakan rumus konversi yang benar sehingga hasil yang ditampilkan akurat.
 
 ## 2. Mathematical Equation
-> Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
+> 1. Celsius ke Reamur
+      Rumus Reamur adalah $R=\frac{4}{5}C$.
+> 2. Celsius ke Fahrenheit
+      $F=\frac{9}{5}C+32$
 
 ## 3. Algorithm
 1. Mulai
