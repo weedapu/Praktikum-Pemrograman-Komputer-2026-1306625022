@@ -10,9 +10,9 @@
 > Membuat sebuah program yang dapat menerima masukan suhu dalam satuan Celsius, kemudian menghitung dan menampilkan nilai suhu tersebut dalam skala Reamur dan Fahrenheit secara otomatis. Program harus menggunakan rumus konversi yang benar sehingga hasil yang ditampilkan akurat.
 
 ## 2. Mathematical Equation
-> 1. Celsius ke Reamur
-      Rumus Reamur adalah $R=\frac{4}{5}C$.
-> 2. Celsius ke Fahrenheit
+> 1. Celsius ke Reamur 
+      $R=\frac{4}{5}C$.
+> 2. Celsius ke Fahrenheit 
       $F=\frac{9}{5}C+32$
 
 ## 3. Algorithm
@@ -25,7 +25,7 @@
 7. Input "Selang 10"
 8. Print "Tabel Konversi"
 9. Print "Tabel...."
-10. Hiting Celsius ke Reamur : 4/5
-11. Hitung Celsius ke Fahrenheit :
+10. Hiting Celsius ke Reamur : $R=\frac{4}{5}C$
+11. Hitung Celsius ke Fahrenheit : $F=\frac{9}{5}C+32$
 12. Print Hasil
 13. Selesai  
