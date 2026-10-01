@@ -10,7 +10,7 @@
 > Mencari Seluruh Faktor dari Sembarang Bilangan
 
 ## 2. Mathematical Equation
-> $n \bmod i = 0
+> $n \bmod i = 0$
 
 ## 3. Algorithm
 1. Mulai
