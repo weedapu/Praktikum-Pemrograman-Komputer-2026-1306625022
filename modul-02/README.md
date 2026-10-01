@@ -19,13 +19,13 @@
 4. print"NIM = 1306625022"
 5. input n"Masukan sembarang bilangan"
 6. Apakah n = 0?
-  6.1 Jika ya, print"selesai" kemudian program berhenti dan lanjut ke langkah 1
-  6.2 Jika tidak, lanjut ke langkah berikutnya
+   6.1 Jika ya, print"selesai" kemudian program berhenti dan lanjut ke langkah 1
+   6.2 Jika tidak, lanjut ke langkah berikutnya
 7. Buat list kosong untuk menyimpan faktor
 8. inisialisasi i = 1
 9. periksa i ≤ n
-  9.1 Jika tidak, lanjut ke langkah 12
-  9.2 Jika ya, lanjut ke langkah berikutnya
+    9.1 Jika tidak, lanjut ke langkah 12
+    9.2 Jika ya, lanjut ke langkah berikutnya
 10. Periksa apakah n mod i = 0
 11. Tambahkan i = i + 1, lalu kembali ke langkah 9
 12. Tampilkan daftar bilangan (list faktor bilangan)
