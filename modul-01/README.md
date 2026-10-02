@@ -20,12 +20,18 @@
 2. Print Judul "Program konversi Suhu"
 3. Print "Nama: Muhammad Gotzone Davu Quinn"
 4. Print "NIM: 1306625022"
-5. Input "Suhu Awal 0"
-6. Input "Suhu Akhir 100"
+5. Input "Suhu-Awal 0"
+6. Input "Suhu-Akhir 100"
 7. Input "Selang 10"
 8. Print "Tabel Konversi"
-9. Print "Tabel...."
-10. Hiting Celsius ke Reamur : $R=\frac{4}{5}C$
-11. Hitung Celsius ke Fahrenheit : $F=\frac{9}{5}C+32$
-12. Print Hasil
+9. Print "Format(`No`,`Celcius(C)`,`Reamur(R)`,`Fahrenheit(F)`)"
+10. Inisialisasi n =1
+11. Selama Suhu-Awal <= Suhu-Akhir
+      11.1 Hitung C = (Suhu-Awal)
+      11.2 Hiting Celsius ke Reamur : $R=\frac{4}{5}C$
+      11.3 Hitung Celsius ke Fahrenheit : $F=\frac{9}{5}C+32$
+      11.4 Print(Forrmat(n, C, R, F))
+      11.5 Hitung n = n + 1
+      11.6 Hitung Suhu-Awal + 1 = Selang
+12. Print "Selesai"
 13. Selesai  
