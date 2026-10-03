@@ -2,6 +2,7 @@
 
 **Nama:** Muhammad Gotzone Davu Quinn  
 **NIM:** 1306625022
+
 **Kelas:** Fisika C
 
 ---
